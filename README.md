@@ -6,7 +6,7 @@ This is a simple php api to upload a file to a discord server with an webhook
 
 _Below is an example how to use it._
 
-1. Set your Webhook in the upload.php file in the third line.
+1. Set your Webhook in the _upload.php_ file in the third line.
 
 2. Here is the example how to use it: 
 
