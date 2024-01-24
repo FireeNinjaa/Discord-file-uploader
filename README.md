@@ -1,6 +1,7 @@
 # Fileupload-to-Discord
-This is a simple * [![PHP][php.net]][php-url] api to upload a file to a discord server with an webhook
+This is a simple php api to upload a file to a discord server with an webhook
 
+* [![PHP][php.net]][php-url]
 
 ### Installation
 
